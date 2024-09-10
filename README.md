@@ -10,7 +10,7 @@ Banner Display: The script starts by displaying a colorful ASCII art banner to g
 Menu Options: After displaying the banner, the script presents a menu with various enumeration options. Users can select from a list of predefined options to gather specific system information. The menu options are color-coded for easier readability.
 
 Data Collection:
-
+<ol>
 System Information and Hotfixes: Collects OS details and installed hotfixes.
 Group Policy Settings: Retrieves and displays Group Policy settings.
 Network Information: Gathers network configuration details.
@@ -35,7 +35,7 @@ Group Process By Name: Groups processes by their names.
 Unquoted Service Paths Check: Checks for unquoted service paths, which can be a security risk.
 List UDP Endpoints: Displays UDP endpoints and their associated ports.
 Output Management: The script outputs data to both the console and a text file named REPORT_<ComputerName>.txt, where <ComputerName> is the name of the system where the script is executed. This file is created or overwritten each time the script is run, ensuring fresh and updated reports.
-
+</ol>
 User Interaction: The script prompts the user to select an option from the menu and performs the corresponding action. It also handles invalid selections gracefully and prompts the user to try again.
 
 Exiting: The script allows users to exit the menu and terminate the script by selecting the exit option (0).
