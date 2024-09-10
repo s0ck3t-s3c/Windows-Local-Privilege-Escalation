@@ -1,6 +1,6 @@
 # Windows-Local-Privilege-Escalation
 
-# PowerShell Enumeration and Reporting Script
+# PowerShell Enumeration and Reporting Script (j0ltWind0wsPr1v3sc)
 
 ## Description
 
